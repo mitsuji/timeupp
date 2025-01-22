@@ -1,0 +1,10 @@
+<conf>
+	<schedule date="2025/01/22" time="12:10" done="False">
+		<from>C:\Users\someone\Documents\dev\proj1\timeupp\patch002</from>
+		<to>C:\Users\someone\Documents\dev\proj1\release</to>
+	</schedule>
+	<schedule date="2025/01/21" time="12:10" done="True">
+		<from>C:\Users\someone\Documents\dev\proj1\timeupp\patch001</from>
+		<to>C:\Users\someone\Documents\dev\proj1\release</to>
+	</schedule>
+</conf>
